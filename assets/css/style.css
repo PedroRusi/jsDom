@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+img {
+    width: 500px;
+    height: 555px;
+}
+#btn__submit {
+    display: none;
+}
+.block__input {
+    display: flex;
+    width: 25%;
+}
+.www {
+    width: 25%;
+}
+#input {
+    margin: 20px;
+}
+.input_25 {
+    width: 200px;
+}
